@@ -1,0 +1,30 @@
+[
+    {
+        "question":"What is the Capital of Alaska?", 
+        "answer":"Juneau"
+    },
+    {
+        "question":"Who founded the US Treasury?", 
+        "answer":"Alexander Hamilton"
+    },
+    {
+        "question":"Who was the first American born president?", 
+        "answer":"Martin Van Buren"
+    },
+    {
+        "question":"How many time zones does the USA have?", 
+        "answer":"six"
+    },
+    {
+        "question":"Which state was the original 13th colony.", 
+        "answer":"Georgia"
+    },
+    {
+        "question":"Which amendment states that the Federal Government only has the powers stated in the Constitution?", 
+        "answer":"Tenth"
+    },
+    {
+        "question":"Which amendment bars the government from illegal search and seizure?", 
+        "answer":"Fourth"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "partial":"Juneau is the Capital of Alaska.", 
+        "cloze":"Juneau"
+    },
+    {
+        "partial":"Alexander Hamilton founded the US Treasury.", 
+        "cloze":"Hamilton"
+    },
+    {
+        "partial":"Martin Van Buren is the first American born president.", 
+        "cloze":"Martin Van Buren"
+    },
+    {
+        "partial":"The USA has six time zones.", 
+        "cloze":"six"
+    },
+    {
+        "partial":"Georgia was the 13th colony.", 
+        "cloze":"Georgia"
+    },
+    {
+        "partial":"The Tenth amendment states that the Federal Government only has the powers stated in the Constitution. The rest belong to the states or to the people.", 
+        "cloze":"Tenth"
+    },
+    {
+        "partial":"The Fourth amendment bars the government from illegal search and seizure.", 
+        "cloze":"Fourth"
+    }
+]
